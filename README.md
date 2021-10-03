@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am working on my profile readme file so please excuse me on my amateur looking profile view 😄
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodewithchirag&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **kodewithchirag/kodewithchirag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
